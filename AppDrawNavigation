@@ -5,3 +5,4 @@ import DrawerContent from ".src/screens/DrawerContent";
 import StackNavigator from ". /AppStackNavigation";
 
 const Drawer = CreateDrawerNavigator ();
+;
